@@ -1,21 +1,10 @@
-# Hi there, I'm Daniel Omoregie 👋
+# Yo I'm Daniel Omoregie 
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+NASA;Content+Creator;Student+%40+University+of+Houston;Building+the+Future+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=CS+Student+%40+University+of+Houston;Former+Software+Engineer+%40+NASA;Content+Creator;Building+the+Future+🚀)](https://git.io/typing-svg)
 
 </div>
-
-## 🚀 About Me
-
-I'm a **Software Engineering Intern at NASA**, where I contribute production-level code to the **International Space Station Fire Port application**. Currently pursuing my BBA in Accounting & Finance at the University of Houston with a 3.89 GPA, I'm passionate about building impactful software that makes a difference.
-
-- 🛰️ Worked on **ISS operational software** at NASA Johnson Space Center
-- 📹 Content creator with **1M+ Instagram visits** and **10K+ views per video**
-- 🎓 Learning **Machine Learning & AI** and exploring cloud technologies
-- 🎯 Interested in **Back-Development development**, **AI/ML**, and **data engineering**
-- 💼 Former Software Engineering Intern at NASA
-- 🏆 Selected as 1 of 25 for **Yahoo! Industry Breakers Leadership Program**
 
 ## 🛠️ Tech Stack
 
@@ -42,10 +31,6 @@ I'm a **Software Engineering Intern at NASA**, where I contribute production-lev
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-### Certifications
-🏅 Microsoft Certified: Azure Data Fundamentals  
-🏅 internXL: Prompt Engineering Certification
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -58,21 +43,6 @@ I'm a **Software Engineering Intern at NASA**, where I contribute production-lev
 
 </div>
 
-## 🌟 Featured Projects
-
-### 🔥 Fire Port UI (NASA ISS Operational Software)
-**Tech Stack:** C++, SVN  
-Developed and merged a key UI feature for the Fire Port application running on the International Space Station, improving visual clarity by 30% for astronauts.
-
-### 🤖 CreatorHub AI
-**Tech Stack:** Python, React, Notion API, OpenAI  
-Personal productivity tool that automates video planning by generating ideas, titles, and content calendars based on YouTube engagement data. Reduced planning time by 50%+.
-
-### 📊 Web-Based Data Visualization Dashboard
-**Tech Stack:** Python, Flask  
-Built an analytics dashboard streamlining data visualization for 50+ users, integrated with Mansfield ISD's ticketing software (IncidentIQ) for real-time updates.
-
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omoregiedaniel/)
@@ -81,8 +51,6 @@ Built an analytics dashboard streamlining data visualization for 50+ users, inte
 ---
 
 <div align="center">
-  
-**"Building software that reaches for the stars 🌟"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Danielomoregie&color=blueviolet&style=for-the-badge)
 
