@@ -1,4 +1,4 @@
-# Hi there, I'm Osayande (Daniel) Omoregie 👋
+# Hi there, I'm Daniel Omoregie 👋
 
 <div align="center">
   
@@ -10,11 +10,11 @@
 
 I'm a **Software Engineering Intern at NASA**, where I contribute production-level code to the **International Space Station Fire Port application**. Currently pursuing my BBA in Accounting & Finance at the University of Houston with a 3.89 GPA, I'm passionate about building impactful software that makes a difference.
 
-- 🛰️ Currently working on **ISS operational software** at NASA Johnson Space Center
+- 🛰️ Worked on **ISS operational software** at NASA Johnson Space Center
 - 📹 Content creator with **1M+ Instagram visits** and **10K+ views per video**
 - 🎓 Learning **Machine Learning & AI** and exploring cloud technologies
-- 🎯 Interested in **full-stack development**, **AI/ML**, and **data engineering**
-- 💼 Former Software Engineering Intern at Mansfield ISD
+- 🎯 Interested in **Back-Development development**, **AI/ML**, and **data engineering**
+- 💼 Former Software Engineering Intern at NASA
 - 🏆 Selected as 1 of 25 for **Yahoo! Industry Breakers Leadership Program**
 
 ## 🛠️ Tech Stack
@@ -72,13 +72,6 @@ Personal productivity tool that automates video planning by generating ideas, ti
 **Tech Stack:** Python, Flask  
 Built an analytics dashboard streamlining data visualization for 50+ users, integrated with Mansfield ISD's ticketing software (IncidentIQ) for real-time updates.
 
-## 🎯 Current Focus
-
-- 🔭 Contributing to **ISS operational software** at NASA
-- 🌱 Deepening knowledge in **Machine Learning & AI**
-- 📚 Exploring **cloud computing** and **data engineering**
-- 🎬 Creating tech content that inspires others
-- 💡 Building tools that solve real-world problems
 
 ## 📫 Let's Connect!
 
