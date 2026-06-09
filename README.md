@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="minecraft-banner.svg" width="100%" alt="Minecraft Banner"/>
-
 # ⛏️ *Daniel Omoregie*
+
+<img src="minecraft-banner.svg" width="100%" alt="Minecraft Banner"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omoregiedaniel)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Danielomoregie)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:omoregiebusiness@gmail.com)
-
-<img src="minecraft-banner.svg" width="100%" alt="Minecraft Banner"/>
 
 </div>
 
@@ -18,7 +16,7 @@
 
 CS student at **University of Houston** and SWE Intern at **JPMorgan Chase**. Before that, I shipped code that runs on the International Space Station at NASA.
 
-I started coding at 12 — Minecraft got me into building things and I never stopped. I also vlog my daily life on YouTube.
+I started coding at 12 — Minecraft got me into building things and I never stopped.
 
 Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email](mailto:omoregiebusiness@gmail.com)**.
 
@@ -43,7 +41,7 @@ Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email]
 
 - interning @ **JPMorgan Chase** — cloud infra, distributed databases
 - **CS @ UH** · May 2028
-- building on the side + vlogging on YouTube
+- building on the side
 
 ---
 
@@ -61,14 +59,12 @@ Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email]
 
 - based in **Houston, TX**
 - started building things at **age 12**
-- shipped software that runs on the **ISS** — still can't believe it
+- shipped software that runs on the **ISS**
 
 ---
 
 <div align="center">
 
 *last updated · june 2026*
-
-<img src="minecraft-banner.svg" width="100%" alt="Minecraft Banner"/>
 
 </div>
