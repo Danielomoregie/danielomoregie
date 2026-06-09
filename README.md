@@ -1,43 +1,60 @@
 <div align="center">
 
+
 # ⛏️ *Daniel Omoregie*
 
+
 <img src="minecraft-banner.svg" width="100%" alt="Minecraft Banner"/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omoregiedaniel)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Danielomoregie)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:omoregiebusiness@gmail.com)
 
+
 </div>
 
+
 ---
+
 
 <table>
 <tr>
 <td valign="top" width="60%">
 
+
 ### `⛏️ whoami`
+
 
 CS student at **University of Houston** and SWE Intern at **JPMorgan Chase**. Before that, I shipped code that runs on the International Space Station at NASA.
 
+
 I started coding at 12 — Minecraft got me into building things and I never stopped.
 
+
 Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email](mailto:omoregiebusiness@gmail.com)**.
+
 
 </td>
 <td valign="top" align="center" width="40%">
 
+
 <img src="user.jpeg" width="260px" style="border-radius:8px"/>
 
-`// user.jpeg`
+
+`// steve.jpeg`
+
 
 </td>
 </tr>
 </table>
 
+
 ---
 
+
 ### `🧱 inventory`
+
 
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=ED8B00)
@@ -50,37 +67,24 @@ Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email]
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624)
 
+
 ---
 
+
 ### `🔥 active quests`
+
 
 - interning @ **JPMorgan Chase** — cloud infra, distributed databases
 - **CS @ UH** · May 2028
 - building on the side
 
+
 ---
 
+
 ### `💎 achievements`
+
 
 | | | |
 |---|---|---|
 | **JPMorgan Chase** | *SWE Intern* | `2026` |
-| **NASA** | *SWE Intern · ISS + Artemis II* | `2025` |
-| **Yahoo** | *Industry Breakers · 1 of 25 / 6,000+* | `2025` |
-| **MISD Technology** | *IT Intern* | `2024` |
-
----
-
-### `🌿 lore`
-
-- based in **Houston, TX**
-- started building things at **age 12**
-- shipped software that runs on the **ISS** — still can't believe it
-
----
-
-<div align="center">
-
-*last updated · june 2026*
-
-</div>
