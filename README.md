@@ -12,6 +12,10 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ### `⛏️ whoami`
 
 CS student at **University of Houston** and SWE Intern at **JPMorgan Chase**. Before that, I shipped code that runs on the International Space Station at NASA.
@@ -19,6 +23,17 @@ CS student at **University of Houston** and SWE Intern at **JPMorgan Chase**. Be
 I started coding at 12 — Minecraft got me into building things and I never stopped.
 
 Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email](mailto:omoregiebusiness@gmail.com)**.
+
+</td>
+<td valign="top" align="center" width="40%">
+
+<img src="user.jpeg" width="260px" style="border-radius:8px"/>
+
+`// user.jpeg`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,6 +67,7 @@ Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email]
 | **JPMorgan Chase** | *SWE Intern* | `2026` |
 | **NASA** | *SWE Intern · ISS + Artemis II* | `2025` |
 | **Yahoo** | *Industry Breakers · 1 of 25 / 6,000+* | `2025` |
+| **MISD Technology** | *IT Intern* | `2024` |
 
 ---
 
@@ -59,7 +75,7 @@ Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email]
 
 - based in **Houston, TX**
 - started building things at **age 12**
-- shipped software that runs on the **ISS**
+- shipped software that runs on the **ISS** — still can't believe it
 
 ---
 
