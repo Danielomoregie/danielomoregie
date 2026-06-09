@@ -18,9 +18,7 @@
 
 ### `⛏️ whoami`
 
-CS student at **University of Houston** and SWE Intern at **JPMorgan Chase**. Before that, I shipped code that runs on the International Space Station at NASA.
-
-I started coding at 12 — Minecraft got me into building things and I never stopped.
+Hello, my name is Daniel. I go to the **University of Houston** where I'm a junior studying **Computer Science**. I'm currently interning at **JPMorgan Chase** as a SWE this summer. When I'm not grinding at school, I'm traveling or editing for my YouTube channel where I post vlogs of my daily life.
 
 Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email](mailto:omoregiebusiness@gmail.com)**.
 
@@ -45,6 +43,7 @@ Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email]
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Swift](https://img.shields.io/badge/Swift-1a1a1a?style=flat-square&logo=swift&logoColor=FA7343)
 ![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnubash&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-1a1a1a?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1)
@@ -54,9 +53,9 @@ Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email]
 
 ### `🔥 active quests`
 
-- interning @ **JPMorgan Chase** — cloud infra, distributed databases
+- Summer SWE intern @ **JPMorgan Chase** — cloud infra
 - **CS @ UH** · May 2028
-- building on the side
+- Uploading YouTube videos for the world.
 
 ---
 
@@ -64,7 +63,7 @@ Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email]
 
 | | | |
 |---|---|---|
-| **JPMorgan Chase** | *SWE Intern* | `2026` |
+| **JPMorgan Chase** | *SWE Intern · cloud infra* | `2026` |
 | **NASA** | *SWE Intern · ISS + Artemis II* | `2025` |
 | **Yahoo** | *Industry Breakers · 1 of 25 / 6,000+* | `2025` |
 | **MISD Technology** | *IT Intern* | `2024` |
@@ -73,9 +72,9 @@ Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email]
 
 ### `🌿 lore`
 
-- based in **Houston, TX**
-- started building things at **age 12**
-- shipped software that runs on the **ISS** — still can't believe it
+- originally from **Lagos, Nigeria**
+- started coding at the age of **12**
+- shipped running code on the **ISS** and **Artemis II**
 
 ---
 
