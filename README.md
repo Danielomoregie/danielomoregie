@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omoregiedaniel)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Danielomoregie)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:omoregiebusiness@gmail.com)
+[![Play Daniel's Craft](https://img.shields.io/badge/⛏️_Play_Daniel's_Craft-1a1a1a?style=flat-square)](https://danielomoregie.github.io/daniels-craft)
 
 </div>
 
