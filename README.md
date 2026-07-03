@@ -63,7 +63,7 @@ Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email]
 
 | | | |
 |---|---|---|
-| **JPMorgan Chase** | *SWE Intern · cloud infra* | `2026` |
+| **JPMorgan Chase** | *SWE Intern · full-stack dev* | `2026` |
 | **NASA** | *SWE Intern · ISS + Artemis II* | `2025` |
 | **Yahoo** | *Industry Breakers · 1 of 25 / 6,000+* | `2025` |
 | **MISD Technology** | *IT Intern* | `2024` |
