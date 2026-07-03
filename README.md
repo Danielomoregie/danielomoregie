@@ -53,7 +53,7 @@ Reach out on **[LinkedIn](https://linkedin.com/in/omoregiedaniel)** or **[email]
 
 ### `🔥 active quests`
 
-- Summer SWE intern @ **JPMorgan Chase** — cloud infra
+- Summer SWE intern @ **JPMorgan Chase** — full-stack dev
 - **CS @ UH** · May 2028
 - Uploading YouTube videos for the world.
 
